@@ -158,3 +158,8 @@ footer p{
     font-size: 1.3em;
     
 }
+
+.link p a{
+    text-decoration:none;
+    color: Yellow;
+}
