@@ -150,3 +150,11 @@ footer p{
         font-size: 12px;
     }
 }
+
+.link{
+    Position:abosulute;
+    text-align:center;
+    justify-content:center;
+    font-size: 1.3em;
+    
+}
